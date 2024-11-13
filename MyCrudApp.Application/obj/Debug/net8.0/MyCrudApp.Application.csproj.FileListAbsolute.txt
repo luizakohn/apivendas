@@ -1,0 +1,15 @@
+C:\proj\MyCrudApp\MyCrudApp.Application\bin\Debug\net8.0\MyCrudApp.Application.deps.json
+C:\proj\MyCrudApp\MyCrudApp.Application\bin\Debug\net8.0\MyCrudApp.Application.dll
+C:\proj\MyCrudApp\MyCrudApp.Application\bin\Debug\net8.0\MyCrudApp.Application.pdb
+C:\proj\MyCrudApp\MyCrudApp.Application\bin\Debug\net8.0\MyCrudApp.Core.dll
+C:\proj\MyCrudApp\MyCrudApp.Application\bin\Debug\net8.0\MyCrudApp.Core.pdb
+C:\proj\MyCrudApp\MyCrudApp.Application\obj\Debug\net8.0\MyCrudApp.Application.csproj.AssemblyReference.cache
+C:\proj\MyCrudApp\MyCrudApp.Application\obj\Debug\net8.0\MyCrudApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\MyCrudApp\MyCrudApp.Application\obj\Debug\net8.0\MyCrudApp.Application.AssemblyInfoInputs.cache
+C:\proj\MyCrudApp\MyCrudApp.Application\obj\Debug\net8.0\MyCrudApp.Application.AssemblyInfo.cs
+C:\proj\MyCrudApp\MyCrudApp.Application\obj\Debug\net8.0\MyCrudApp.Application.csproj.CoreCompileInputs.cache
+C:\proj\MyCrudApp\MyCrudApp.Application\obj\Debug\net8.0\MyCrudAp.A03ED676.Up2Date
+C:\proj\MyCrudApp\MyCrudApp.Application\obj\Debug\net8.0\MyCrudApp.Application.dll
+C:\proj\MyCrudApp\MyCrudApp.Application\obj\Debug\net8.0\refint\MyCrudApp.Application.dll
+C:\proj\MyCrudApp\MyCrudApp.Application\obj\Debug\net8.0\MyCrudApp.Application.pdb
+C:\proj\MyCrudApp\MyCrudApp.Application\obj\Debug\net8.0\ref\MyCrudApp.Application.dll

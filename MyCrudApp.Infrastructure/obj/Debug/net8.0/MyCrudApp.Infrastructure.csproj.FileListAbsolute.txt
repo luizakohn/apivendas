@@ -1,0 +1,17 @@
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\bin\Debug\net8.0\MyCrudApp.Infrastructure.deps.json
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\bin\Debug\net8.0\MyCrudApp.Infrastructure.runtimeconfig.json
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\bin\Debug\net8.0\MyCrudApp.Infrastructure.dll
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\bin\Debug\net8.0\MyCrudApp.Infrastructure.pdb
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\bin\Debug\net8.0\MyCrudApp.Core.dll
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\bin\Debug\net8.0\MyCrudApp.Core.pdb
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\MyCrudApp.Infrastructure.csproj.AssemblyReference.cache
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\MyCrudApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\MyCrudApp.Infrastructure.AssemblyInfoInputs.cache
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\MyCrudApp.Infrastructure.AssemblyInfo.cs
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\MyCrudApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\MyCrudAp.F9F93B9E.Up2Date
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\MyCrudApp.Infrastructure.dll
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\refint\MyCrudApp.Infrastructure.dll
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\MyCrudApp.Infrastructure.pdb
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\MyCrudApp.Infrastructure.genruntimeconfig.cache
+C:\proj\MyCrudApp\MyCrudApp.Infrastructure\obj\Debug\net8.0\ref\MyCrudApp.Infrastructure.dll
